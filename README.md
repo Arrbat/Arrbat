@@ -7,7 +7,6 @@
   
   Telegram: @Arrbat01
   
-Working on Encryption-Decryption-notes app ("Endecryp")
 
 Like cookies and dogs
 
