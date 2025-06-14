@@ -36,5 +36,6 @@ I’m open to opportunities and roles in reverse engineering, cybersecurity, mal
 
 I don’t share personal contact info publicly for privacy reasons, but you’re welcome to join my **Discord community** and then send me a direct message there [Join Discord](https://discord.gg/TE5bNbbYub) (@Arrbat)
 
+or just write the message to w5ab0hvt4@mozmail.com (email mask) and i will respond you
 
 ---
