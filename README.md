@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m a passionate **Reverse Engineer** and **C developer** with strong interests in **cryptography**, **cybersecurity**, **pentesting**, and **malware analysis**.
+I’m a passionate **Reverse Engineer** and **Malware Analyst** with strong interests in **malware analysis**, **cybersecurity**, **pentesting**, and **cryptography**. 
 
 ---
 
@@ -14,15 +14,18 @@ I primarily use:
 I also often work with tools like:  
 - Detect It Easy (DIE)  
 - HxD Hex Editor  
-- JADX (if analyze java app)
-- and other tools  
+- JADX (if analyze java app), dnSpy (if analyze C#/.NET app)
+- and other tools when it is necessary
 
 ---
 
 ## 📂 Current Projects
 
-I’m actively working on my own projects — including ***[Veil-Forge](https://github.com/Arrbat/Veil-Forge)***, solving crackmes, and other interesting challenges.  
-Here are [My GitHub Repositories](https://github.com/Arrbat?tab=repositories)
+I’m actively working on my own projects — including solving crackmes, writing malware reports (and analysing malwares), participating in CTFs with writing writeups, and other challenges.  
+
+Here are [My GitHub Repositories](https://github.com/Arrbat?tab=repositories),
+
+And one completed project - ***[Veil-Forge](https://github.com/Arrbat/Veil-Forge)*** (.exe packer)
 
 ---
 
@@ -34,8 +37,9 @@ I’m open to opportunities and roles in reverse engineering, cybersecurity, mal
 
 ## 💬 Contact Me
 
-I don’t share personal contact info publicly for privacy reasons, but you’re welcome to join my **Discord community** and then send me a direct message there [Join Discord](https://discord.gg/TE5bNbbYub) (@Arrbat)
 
-or just write the message to w5ab0hvt4@mozmail.com (email mask) and i will respond you
+Discord: `@arrbat`
+
+Email: `w5ab0hvt4@mozmail.com`
 
 ---
