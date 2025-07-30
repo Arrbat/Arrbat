@@ -7,13 +7,12 @@ I’m a passionate **Reverse Engineer** and **Malware Analyst** with strong inte
 ## 🛠️ What I Work With
 
 I primarily use:  
-- **Ghidra**, **x32dbg / x64dbg**  
+- **Binary ninja or/and Ghidra**, **x32dbg / x64dbg**  
 - **C** (main programming language)  
 - Sometimes **Python** for scripting and automation  
 
 I also often work with tools like:  
 - Detect It Easy (DIE)  
-- HxD Hex Editor  
 - JADX (if analyze java app), dnSpy (if analyze C#/.NET app)
 - and other tools when it is necessary
 
