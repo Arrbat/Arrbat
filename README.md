@@ -24,7 +24,7 @@ I’m actively working on my own projects — including solving crackmes, writin
 
 Here are [My GitHub Repositories](https://github.com/Arrbat?tab=repositories),
 
-And one completed project - ***[Veil-Forge](https://github.com/Arrbat/Veil-Forge)*** (.exe packer)
+Completed project (programming) - ***[Veil-Forge](https://github.com/Arrbat/Veil-Forge)*** (.exe packer)
 
 ---
 
