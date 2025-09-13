@@ -1,44 +1,49 @@
 # Hi there! 👋
 
-I’m a passionate **Reverse Engineer** and **Malware Analyst** with strong interests in **malware analysis**, **cybersecurity**, **pentesting**, and **cryptography**. 
+**TL;DR:** Independent malware analyst and reverse engineer. Author of a PE packer (ChaCha20-Poly1305 / HKDF), 5+ technical reports (BlackCat, Remcos, Agent-Tesla, Amadey...), YARA/Sigma rules and multiple triage tools. Open to remote/on-site roles and EU relocation.  
+
+---
+## 🔭 What I do
+- Reverse engineering (x86/x64), malware triage and dynamic analysis.  
+- Tooling: PE packer, network triage analyzer (Nector), automation scripts for IOC extraction.  
+- Research: ransomware/apt family studies, YARA & Sigma rules development.
+
+## ⭐ Key projects (pinned)
+- **PE Packer** — ChaCha20-Poly1305, HKDF, anti-debug, process hollowing.
+- **BlackCat Research** — longitudinal analysis 2021–2023, MITRE mapping, 3 YARA rules.  
+- **Nector** — network triage analyzer for malware traffic extraction.  
+(see pinned repos for direct links)
+
+## 🧰 Skills
+- Reverse engineering: Binary Ninja/Ghidra, x64dbg (x32dbg)  
+- Languages: C / C++ (strong), Python (automation), basics of C#/ADA (reading skills)  
+- Malware triage: procmon, fakeNet, Wireshark; YARA, Sigma  
+- Crypto: Strong knowledge (f.e. ChaCha20/Poly1305, SHA256, HKDF) (theory + implementation skills)
+
+## 📂 Artifacts you can review
+- Technical reports (BlackCat, Remcos, Agent-Tesla) — links in repos.  
+- YARA rules & Sigma rules — in repos under rules directory.  
+
+## 📝 Publications & Media
+All publications are available via the linkedin profile or repositories. 
+
+## 🛡️ Security & Responsible Disclosure
+I publish only sanitized artifacts. No raw malware samples or runnable malicious payloads. For vulnerability/incident disclosure contact: arturbartaprivate@gmail.com
 
 ---
 
-## 🛠️ What I Work With
+## Languages
+- Ukrainian — Native  
+- Russian — Native  
+- English — B1+ (actively improving)  
+- Polish — B2 (working level)
 
-I primarily use:  
-- **Binary ninja or/and Ghidra**, **x32dbg / x64dbg**  
-- **C** (main programming language)  
-- Sometimes **Python** for scripting and automation  
-
-I also often work with tools like:  
-- Detect It Easy (DIE)  
-- JADX (if analyze java app), dnSpy (if analyze C#/.NET app)
-- and other tools when it is necessary
-
----
-
-## 📂 Current Projects
-
-I’m actively working on my own projects — including solving crackmes, writing malware reports (and analysing malwares), participating in CTFs with writing writeups, and other challenges.  
-
-Here are [My GitHub Repositories](https://github.com/Arrbat?tab=repositories),
-
-Completed project (programming) - ***[Veil-Forge](https://github.com/Arrbat/Veil-Forge)*** (.exe packer)
-
----
-
-## 🎯 Career Interests
-
-I’m open to opportunities and roles in reverse engineering, cybersecurity, malware research, and related fields. I am open to participating in CTFs, contributing to open-source (or other) projects, and taking on any kind of work. 
-
----
-
-## 💬 Contact Me
-
+## Contact
 
 Discord: `@arrbat`
 
-Email: `w5ab0hvt4@mozmail.com`
+Linkedin: https://www.linkedin.com/in/artur-barta-b1a023288/
+
+Email: `arturbartaprivate@gmail.com`
 
 ---
