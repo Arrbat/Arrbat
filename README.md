@@ -25,7 +25,7 @@
 - YARA rules & Sigma rules — in repos under rules directory.  
 
 ## 📝 Publications & Media
-All publications are available via the linkedin profile or repositories. 
+All publications are available via repositories. 
 
 ## 🛡️ Security & Responsible Disclosure
 I publish only sanitized artifacts. No raw malware samples or runnable malicious payloads. For vulnerability/incident disclosure contact: w5ab0hvt4@mozmail.com
