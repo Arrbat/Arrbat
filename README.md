@@ -36,7 +36,7 @@ I publish only sanitized artifacts. No raw malware samples or runnable malicious
 - Ukrainian — Native  
 - Russian — Native  
 - English — B1+ (actively improving)  
-- Polish — B2 (working level)
+- Polish — B1
 
 ## Contact
 
